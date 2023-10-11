@@ -132,5 +132,7 @@ create helper function {
             protected $guarded = [];
     ];
     copy file "HelperProvider.php" in folder Providers;
+    6 : run composer dump-autoload
+
 
 }
