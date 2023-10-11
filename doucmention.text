@@ -136,3 +136,8 @@ create helper function {
 
 
 }
+
+create with login by google with laravel{
+    1 : composer require laravel/socialite
+
+}
